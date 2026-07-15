@@ -1,6 +1,6 @@
 lun = 'Chiuso';
-mar = '16:00 - 19:00';
-mer = '16:00 - 19:00';
+mar = '16:00 - 19:00 con prenotazione';
+mer = '16:00 - 19:00 con prenotazione';
 gio = '16:00 - 21:45';
 ven = '16:00 - 21:45';
 sab = '09:30 - 12:00  16:00 - 21:45';
